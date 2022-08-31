@@ -1,6 +1,6 @@
 {
   "name": "is-email-address",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "check whether a string is an email address",
   "main": "src/index.js",
   "scripts": {
