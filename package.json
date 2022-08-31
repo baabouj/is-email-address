@@ -1,0 +1,22 @@
+{
+  "name": "is-email-address",
+  "version": "0.0.1",
+  "description": "check whether a string is an email address",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "email",
+    "is-email-address",
+    "is-email"
+  ],
+  "author": "Omar Baabouj <baabouj.dev@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
